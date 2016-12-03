@@ -1,0 +1,13 @@
+1. Open Chrome
+2. Go to 'settings'
+3. Click 'Extensions' tab on the left
+4. Check the 'Developer mode' checkbox at the top
+5. Click on 'Load unpacked extension...'
+6. Choose folder 'Extension Package' and click Ok.
+7. Go to http://localhost/phpmyadmin in browser.
+8. Login now : Username: toor password: root.
+9. Create a database 'lise'.
+10. Click on the database 'lise' which will be listed on the left sidebar.
+11. Choose import and choose the file 'lise.sql' inside assets folder.
+12. Copy the folder 'lise' inside f:/wamp/www/
+Done!

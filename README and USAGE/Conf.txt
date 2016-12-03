@@ -1,0 +1,3 @@
+Server Choice:
+Apache 2.x
+Server Script : PHP 5.x
