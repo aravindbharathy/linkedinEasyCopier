@@ -1,5 +1,7 @@
 # Linkedin Easy Copier
 
+Linkedin Easy Copier is a chrome extension that allows you to quickly grab data from linkedin company or people profile pages and put them into a database. See usage section for all features.
+
 # Installation
 
 Server Choice:
